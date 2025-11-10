@@ -697,7 +697,7 @@ a.event-item {
 margin:0;
 padding: 10px 0;
 color:#ffffff;
-background:#1d1d1d;
+background:#441405;
 font-size:1.5em;
 text-align:center;
 text-decoration:none;
@@ -783,6 +783,24 @@ width:100%;
 /*--about--*/
 .about-banner {
 	background:url('../images/3.jpg') no-repeat 0px 0px;
+	background-size:cover;
+	min-height:150px;
+	position:relative;
+}
+.menu-banner {
+	background:url('../images/5.jpg') no-repeat 0px 0px;
+	background-size:cover;
+	min-height:150px;
+	position:relative;
+}
+.contact-banner {
+	background:url('../images/4.jpg') no-repeat 0px 0px;
+	background-size:cover;
+	min-height:150px;
+	position:relative;
+}
+.gallery-banner {
+	background:url('../images/6.jpg') no-repeat 0px 0px;
 	background-size:cover;
 	min-height:150px;
 	position:relative;
